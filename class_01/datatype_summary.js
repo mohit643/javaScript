@@ -11,3 +11,14 @@
 //     name:mohit;    
 //     age:23;
 // }
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Memory location
+
+//stack memory and heap memory
+
+// stack memory store only premitive datatpe 
+// heap memory store only Non premitive dataType
+
