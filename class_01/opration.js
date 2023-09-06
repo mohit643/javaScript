@@ -5,3 +5,4 @@ console.log(2 + 2 + "2");  //42
 console.log(+true);  // 1
 // console.log(true+);  // ERROR
 console.log(+""); // 0
+
